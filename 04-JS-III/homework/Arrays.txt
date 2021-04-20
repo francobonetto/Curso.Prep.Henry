@@ -1,0 +1,1 @@
+. Arrays: Defino como si fuera un contenedor de datos en nuestro codigo. Es decir, dentro de una sola variable se pueden acumular diferentes datos y de diferentes tipos.
