@@ -1,0 +1,4 @@
+. Bucle For: Son bucles ("operaciones repetitivas") que se repiten constantemente a partir de una variable declarada, hacia otro valor condicional al que iremos en direccion a partir de que incrementemos nuestra variable. 
+. && : Es un operador logico que nos ayuda a ejecutar algo en base a dos variables verdaderas. Y en caso de que una no se cumpla, es false.
+. || : Es un operador logico que nos permite analizar dos variables, y con que solo una sea true, se ejecutara el codigo. 
+. !! : Es un operador logico que nos permite declarar lo contrario al resultado real. Es decir, si es verdadero, declarara falso, y viceversa.
