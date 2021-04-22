@@ -1,0 +1,2 @@
+. Prototype : Son los metodos que establece una clase , y luego cada objeto derivado de ella puede acceder gracias al prototype. 
+. Constructors (Clases) : Son como super objetos, u objetos madre, de donde derivan muchos objetos de ellas. Es decir , una clase es mandada a hacer para luego crear objetos en base a sus propiedades.
