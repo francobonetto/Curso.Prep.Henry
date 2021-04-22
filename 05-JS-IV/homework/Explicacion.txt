@@ -2,4 +2,4 @@
 . Propiedades : Son cada uno de los datos quue almacenan los objetos.
 . Metodos : Son las funciones que se guardan dentro de los objetos.
 . Bucle for in : Es un bucle que recorre cada parte del objeto y que termina cuando se completan todos.
-. Notacion de puntos vs Notacion de corchetes : La notacion por puntos es aquella por la cual accedemos a una propiedad mediante el nombre del objeto , un punto y el nombre de la propiedad, por ejemplo mamiferos.gato. En cambio en la notacion por corchetes accedemos mediante corchetes a la propiedad de un objeto, ingresando el nombre del objeto, abrimos corchetes, ingresamos la propiedad y lo cerramos, como por ejemplo mamiferos[gato].
+. Notacion de puntos vs Notacion de corchetes : La notacion por puntos es aquella por la cual accedemos a una propiedad mediante el nombre del objeto , un punto y el nombre de la propiedad, por ejemplo mamiferos.gato. En cambio en la notacion por corchetes accedemos mediante corchetes a la propiedad de un objeto, ingresando el nombre del objeto, abrimos corchetes, ingresamos la propiedad y lo cerramos, como por ejemplo mamifero[gato].
